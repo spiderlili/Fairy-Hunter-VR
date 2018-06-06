@@ -20,7 +20,7 @@ public class collectionCalculator : MonoBehaviour {
     public void totalCount()
     {
         counter += 1;
-        petsCollectedText.text = "Pets Collected: " + counter.ToString();
-        Debug.Log("Pets Collected: " + counter);
+        petsCollectedText.text = "Yokai Collected: " + counter.ToString();
+        Debug.Log("Yokai Collected: " + counter);
     }
 }

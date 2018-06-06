@@ -1,6 +1,6 @@
 # Yokai-Huntress-VR
 
-Catch Yokai creatures with magic globes in VR(WIP)
+Catch as many Yokai creatures as you can within 60 seconds by shooting magic globes in VR(WIP)
 
 TO DO:
 1. Add original music
